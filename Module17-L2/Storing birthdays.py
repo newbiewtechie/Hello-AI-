@@ -10,6 +10,3 @@ print("Rohan=" ,Rohan)
 print("Vijay=", Vijay)
 print("Richa=" ,Richa)
 print("Pihu=", Pihu)
-
-
-
